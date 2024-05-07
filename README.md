@@ -1,2 +1,2 @@
 # fondamenti
-esercitazione 7/05/2024
+esempio7/05/2024
